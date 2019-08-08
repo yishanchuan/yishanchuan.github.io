@@ -35,8 +35,8 @@ $(document).ready(function () {
     ////////////////
     //SOME MESSAGE...
     ///////////////
-    console.log("welcome use ZHIHUA·WEI resume system!");
-    console.log("if you want konw more about ZHIHUA·WEI, you can visit the personal site http://resume.zhihuawei.xyz!");
+    //console.log("welcome use ZHIHUA·WEI resume system!");
+    //console.log("if you want konw more about ZHIHUA·WEI, you can visit the personal site http://resume.zhihuawei.xyz!");
 
     ////////////////
     //FORM STUFF...
